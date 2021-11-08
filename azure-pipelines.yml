@@ -1,4 +1,5 @@
 ### YamlMime:Yaml
+
 trigger:
 - '*'
 pool:
